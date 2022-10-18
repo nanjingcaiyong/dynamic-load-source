@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-load-source",
+  "version": "1.0.0",
+  "description": "ES6 异步加载源码分析",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "^5.36.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
